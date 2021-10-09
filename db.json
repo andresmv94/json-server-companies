@@ -1,21 +1,4 @@
 {
-  "access": [
-    {
-      "id": 1,
-      "nit": 900674335,
-      "available": false
-    },
-    {
-      "id": 2,
-      "nit": 900674336,
-      "available": true
-    },
-    {
-      "id": 3,
-      "nit": 811033098,
-      "available": true
-    }
-  ],
   "identificationType": [
     { "id": 1, "value": "nit", "label": "N.I.T" },
     { "id": 2, "value": "cc", "label": "Cedula de ciudadania" },
