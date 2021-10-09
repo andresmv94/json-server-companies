@@ -1,0 +1,126 @@
+{
+  "access": [
+    {
+      "id": 1,
+      "nit": 900674335,
+      "available": false
+    },
+    {
+      "id": 2,
+      "nit": 900674336,
+      "available": true
+    },
+    {
+      "id": 3,
+      "nit": 811033098,
+      "available": true
+    }
+  ],
+  "identificationType": [
+    { "id": 1, "value": "nit", "label": "N.I.T" },
+    { "id": 2, "value": "cc", "label": "Cedula de ciudadania" },
+    { "id": 2, "value": "ps", "label": "pasaporte" }
+  ],
+  "municipality":[
+    {"id":1, "name":"CALI - VALLE"},
+    {"id":2, "name":"TRUJILLO - VALLE"},
+    {"id":3, "name":"MEDELLIN - ANTIOQUITA"},
+    {"id":4, "name":"POPAYAN - CAUCA"},
+    {"id":5, "name":"SUAREZ - CAUCA"},
+    {"id":6, "name":"CARTAGENA - BOLIVAR"},
+    {"id":7, "name":"BARRANQUILLA - ATLANTICO"},
+    {"id":8, "name":"BOGOTA - CUNDINAMARCA"},
+    {"id":9, "name":"MOSQUERA - CUNDINAMARCA"}
+  ],
+  "via":[
+    {"id":1, "name":"Avenida"},
+    {"id":2, "name":"Calle"},
+    {"id":3, "name":"Carrera"}
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "available": false,
+      "identificationType": "nit",
+      "identificationNumber": 900674335,
+      "company":{
+        "name":"facebook"
+      },
+      "person": {
+        "firstName": "",
+        "secondName": "",
+        "firstLastName": "",
+        "secondLastName": ""
+      },
+      "email": "",
+      "Address": {
+        "via": "Calle",
+        "number": 1,
+        "letter": "a",
+        "number2": 3,
+        "letter2": "b",
+        "complement": " 35 - barrio alameda",
+        "municipality": "BOGOTA - CUNDINAMARCA"
+      },
+      "cellphone": 1111,
+      "acceptsCellMsg": true,
+      "acceptsEmailsMsg": true
+    },
+    {
+      "id": 2,
+      "available": true,
+      "identificationType": "NIT",
+      "identificationNumber": 900674336,
+      "company":{
+        "name":"google"
+      },
+      "person": {
+        "firstName": "",
+        "secondName": "",
+        "firstLastName": "",
+        "secondLastName": ""
+      },
+      "email": "google@gmail.com",
+      "Address": {
+        "via": "avenida",
+        "number": 116,
+        "letter": "a",
+        "number2": 75,
+        "letter2": "b",
+        "complement": "Barrio 7 de agosto",
+        "municipality": "BOGOTA - CUNDINAMARCA"
+      },
+      "cellphone": 1234567890,
+      "acceptsCellMsg": false,
+      "acceptsEmailsMsg": true
+    },
+    {
+      "id": 3,
+      "available": true,
+      "identificationType": "NIT",
+      "identificationNumber": 811033098,
+      "company":{
+        "name":"amxsoft"
+      },
+      "person": {
+        "firstName": "",
+        "secondName": "",
+        "firstLastName": "",
+        "secondLastName": ""
+      },
+      "email": "contact@amxsoft.com",
+      "Address": {
+        "via": "calle",
+        "number": 5,
+        "letter": "a",
+        "number2": 26,
+        "letter2": "-",
+        "complement": "36",
+        "municipality": "CALI - VALLE"
+      },
+      "cellphone": 3123123124,
+      "acceptsCellMsg": false,
+      "acceptsEmailsMsg": false
+    }
+  ]
+}
