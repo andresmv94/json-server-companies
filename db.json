@@ -52,7 +52,7 @@
     {
       "id": 2,
       "available": true,
-      "identificationType": "NIT",
+      "identificationType": "nit",
       "identificationNumber": 900674336,
       "company":{
         "name":"google"
@@ -80,7 +80,7 @@
     {
       "id": 3,
       "available": true,
-      "identificationType": "NIT",
+      "identificationType": "nit",
       "identificationNumber": 811033098,
       "company":{
         "name":"amxsoft"
