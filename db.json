@@ -53,7 +53,7 @@
         "secondLastName": ""
       },
       "email": "",
-      "Address": {
+      "address": {
         "via": "Calle",
         "number": 1,
         "letter": "a",
@@ -81,7 +81,7 @@
         "secondLastName": ""
       },
       "email": "google@gmail.com",
-      "Address": {
+      "address": {
         "via": "avenida",
         "number": 116,
         "letter": "a",
@@ -109,7 +109,7 @@
         "secondLastName": ""
       },
       "email": "contact@amxsoft.com",
-      "Address": {
+      "address": {
         "via": "calle",
         "number": 5,
         "letter": "a",
