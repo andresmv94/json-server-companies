@@ -43,7 +43,7 @@
         "number2": 3,
         "letter2": "b",
         "complement": " 35 - barrio alameda",
-        "municipality": "BOGOTA - CUNDINAMARCA"
+        "municipality": "COLOMBIA - BOGOTA - CUNDINAMARCA"
       },
       "cellphone": 1111,
       "acceptsCellMsg": true,
@@ -65,13 +65,13 @@
       },
       "email": "google@gmail.com",
       "address": {
-        "via": "avenida",
+        "via": "Avenida",
         "number": 116,
         "letter": "a",
         "number2": 75,
         "letter2": "b",
         "complement": "Barrio 7 de agosto",
-        "municipality": "BOGOTA - CUNDINAMARCA"
+        "municipality": "COLOMBIA - BOGOTA - CUNDINAMARCA"
       },
       "cellphone": 1234567890,
       "acceptsCellMsg": false,
@@ -93,13 +93,13 @@
       },
       "email": "contact@amxsoft.com",
       "address": {
-        "via": "calle",
+        "via": "Calle",
         "number": 5,
         "letter": "a",
         "number2": 26,
         "letter2": "-",
         "complement": "36",
-        "municipality": "CALI - VALLE"
+        "municipality": "COLOMBIA - CALI - VALLE"
       },
       "cellphone": 3123123124,
       "acceptsCellMsg": false,
